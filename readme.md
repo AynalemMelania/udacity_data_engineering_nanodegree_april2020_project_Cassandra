@@ -1,5 +1,5 @@
 ## Project Sparkify with Cassandra
-The project about what people listen in an app called Sparkify continues with data modeling using Apache Cassandra and Pyhon. The purpose of the project is to see the songs which have the biggest interest.
+The project is about what people listen in an app called Sparkify continues with data modeling using Apache Cassandra and Pyhon. The purpose of the project is to see the songs which have the biggest interest.
 
 ## Requirements
 
